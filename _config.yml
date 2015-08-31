@@ -1,5 +1,5 @@
 permalink: "/:year/:month/:day/:title/"
-url: "http://nicbarajas.github.io/sva-ixd-thesis"
+# url: "http://nicbarajas.github.io/sva-ixd-thesis"
 baseurl: "/sva-ixd-thesis"
 
 defaults:
