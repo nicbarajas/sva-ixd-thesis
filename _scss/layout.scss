@@ -1,0 +1,58 @@
+nav, article, footer, section {
+  padding: 0.25rem;
+}
+
+article, section {
+  max-width: 75rem;
+}
+
+h2 {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05rem;
+}
+
+#site-posts {
+  .has-summary {
+    margin-bottom: 0.25rem;
+  }
+  .summary {
+    margin: 0 0 0.825rem;
+    font-size: 0.825rem;
+  }
+}
+
+article {
+  margin-bottom: 3rem;
+
+  h1 {
+    font-size: 2rem;
+    color: $dusk;
+    margin-bottom: 0.25rem;
+  }
+
+  p {
+    line-height: 1.35;
+    margin-bottom: 0.925rem;
+  }
+}
+
+nav {
+  margin-bottom: 0.5rem;
+
+  font-family: $sans-serif;
+  font-size: 0.625rem;
+  text-transform: uppercase;
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+footer {
+  border-top: 1px solid $midblue;
+  padding-top: 1rem;
+  font-size: 0.625rem;
+}

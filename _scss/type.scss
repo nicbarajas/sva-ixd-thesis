@@ -1,0 +1,17 @@
+$serif: 'Domine', serif;
+$sans-serif: 'Work Sans', serif;
+
+$normal-weight: 400;
+$sans-bold: 600;
+$serif-bold: 700;
+
+
+body {
+  font-family: $serif;
+  font-weight: $normal-weight;
+}
+
+h1,h2,h3,h4,h5 {
+  font-family: $sans-serif;
+  font-weight: $sans-bold;
+}

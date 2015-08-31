@@ -1,0 +1,27 @@
+permalink: "/:year/:month/:day/:title/"
+url: "http://nicbarajas.github.io/sva-ixd-thesis"
+baseurl: "/sva-ixd-thesis"
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "drafts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+sass:
+  sass_dir: "_scss"
+  style: "compressed"
