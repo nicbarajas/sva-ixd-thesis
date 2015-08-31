@@ -1,9 +1,10 @@
-nav, article, footer, section {
+nav, article, section {
   padding: 0.25rem;
 }
 
 article, section {
-  max-width: 75rem;
+  max-width: 45rem;
+  margin: 0 auto;
 }
 
 h2 {
