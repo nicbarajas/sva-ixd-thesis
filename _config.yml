@@ -3,25 +3,33 @@ permalink: "/:year/:month/:day/:title/"
 baseurl: "/sva-ixd-thesis"
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
-  -
-    scope:
+  - scope:
       path: ""
       type: "drafts"
     values:
       layout: "post"
-  -
-    scope:
+  - scope:
       path: ""
       type: "pages"
     values:
       layout: "default"
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: "default"
+      
 
 sass:
   sass_dir: "_scss"
   style: "compressed"
+
+collections:
+  ideas:
+    output: false
+    permalink: /project/:path/:name
