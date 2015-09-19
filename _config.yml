@@ -23,7 +23,7 @@ defaults:
       type: projects
     values:
       layout: "default"
-      
+
 
 sass:
   sass_dir: "_scss"
