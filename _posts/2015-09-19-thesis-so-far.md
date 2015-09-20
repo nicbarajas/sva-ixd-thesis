@@ -61,7 +61,7 @@ My top ideas largely concentrate in the areas of highest concern for me personal
   The topic of sexual education is a taboo, and yet we seem to [need it more than ever][npr-edu]. Unfortunately, the only place we seem to be able to do so is [through comedians][oliver-psa]. Is there a model, a curriculum, anyway to help address this gap and make our society better informed?
 
 [npr-edu]: http://www.npr.org/sections/health-shots/2015/05/17/407063066/sex-ed-works-better-when-it-addresses-power-in-relationships
-[oliver-psa]: http://www.fastcocreate.com/3049651/john-olivers-show-made-the-most-honest-sex-psa-ever-with-laverne-cox-and-nick-offerman
+[oliver-psa]: http://mic.com/articles/123634/john-oliver-laverne-cox-and-nick-offerman-just-gave-us-the-sex-ed-psa-america-needs
 
 ## Random and Miscellaneous
 
@@ -72,3 +72,7 @@ I throw a lot of things into a litany of miscellaneous note-taking tools, so eve
 * **Ecology** and improving **repair and recycling**: we currently do too much blind throwing out of material that could be recycled or repaired but without much insight into how that could be done. Is there a way to better inform the public about means of reuse and repair?
 
 Again, it’s unclear where I’ll be eight months from now, but I believe in these ideas and projects, and am excited to keep testing and exploring.
+
+### Update
+
+*9/20: Changed the link for “Relationships and Intimacy” to one I had saved previously.*
