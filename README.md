@@ -6,7 +6,7 @@ The hope is with a public repository of all the notes and work that are done for
 
 ## Thesis Journal
 
-Thanks to the benefit of [GitHub Pages][gh-pages], I’m keeping as part of this repository a journal and website. Latest updates can be found [there][sva-ixd-thesis].
+Thanks to the benefit of [GitHub Pages][gh-pages], I’m keeping as part of this repository a journal and website. Latest updates on the status and progress of my thesis can be found [there][sva-ixd-thesis].
 
 [gh-pages]: https://pages.github.com/
 [sva-ixd-thesis]: http://nicbarajas.github.io/sva-ixd-thesis/
