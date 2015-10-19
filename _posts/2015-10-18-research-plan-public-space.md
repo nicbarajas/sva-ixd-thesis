@@ -21,16 +21,23 @@ Instead, the idea is to make private space actually owned by the public in a mor
 A few aspects to this plan:
 
 - My goal is focused on chefs, cooks, and people who work in the foodservice industry. Why? They are the ones who are the least likely to have the benefits of investment and retail opportunity.
-- My focus is on community, and my aim is to try to find a way to make it meaningful. Community often has been spun with emptiness, and it may appear on the surface to look more like patrons or customers than people who can interact, but
+- My focus is on community, and my aim is to try to find a way to make it meaningful. Community often has been spun with emptiness I wonder if there should be more of a conversation between people.
+- The real question is: Is this a space for chefs to do their work, or is it a place for more enthusiastic home chefs to gain confidence and connection with the people who know their (legitimate) food networks—the people who bring the ingredients that create meals—best?
 
 ## In this space, current, former and nearby
 
 There are a bunch of other people who are doing things that are near and dear to that idea, but not necessarily the same.
 
+- One of the first projects I backed on Kickstarter was an idea for community bread: [SCRATCHbread][]. His [original campaign][kickstarter-campaign], which ran nearly five years ago, was an impassioned cry for involvement of the community into the dream of the founder, Matthew Tilden. He [decided to close][email-to-folks] the shop earlier this month, owing to burnout and lack of a partner or investor relationship.
 - As a recent historical example, [The Walk-In Cookbook][twic] was a business in Park Slope that tried to perform a local, [Blue Apron][]-like experience. It closed a couple of years ago, but I am very curious about what happened with it.
+- Of course, [The Brooklyn Kitchen][] is a great resource for people in the Williamsburg / Greenpoint neighborhood, with classes and parties. Is that the most appropriate model?
 
+[SCRATCHbread]: http://scratchbread.com
+[kickstarter-campaign]: https://www.kickstarter.com/projects/1105420724/dough
+[email-to-folks]: http://us10.campaign-archive2.com/?u=89ac6db4e0cd97c69902fca83&id=e2b99a855e
 [twic]: http://www.heresparkslope.com/home/2014/2/17/closed-for-business-the-walk-in-cookbook-72-7th-avenue.html
 [Blue Apron]: https://www.blueapron.com/
+[The Brooklyn Kitchen]: http://www.thebrooklynkitchen.com
 
 ## Where I’m headed
 
@@ -39,3 +46,5 @@ I’m still gathering information from folks about what’s good here. So more T
 [Longoven]: http://www.longovenrva.com/
 [longoven IG]: https://instagram.com/longovenrva/
 [mofad]: http://www.mofad.org
+
+There are probably more examples out there, and I’m going to keep my ear out for more, but for now my focus is going to be on articulating one potential vision for the future of this idea. Watch for more from this space.
