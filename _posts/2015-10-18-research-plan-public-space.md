@@ -26,10 +26,14 @@ A few aspects to this plan:
 
 ## In this space, current, former and nearby
 
+_A [recap][] of my last post._
+
+[recap]: http://nicbarajas.github.io/sva-ixd-thesis/2015/10/12/switching-gears/
+
 There are a bunch of other people who are doing things that are near and dear to that idea, but not necessarily the same.
 
-- One of the first projects I backed on Kickstarter was an idea for community bread: [SCRATCHbread][]. His [original campaign][kickstarter-campaign], which ran nearly five years ago, was an impassioned cry for involvement of the community into the dream of the founder, Matthew Tilden. He [decided to close][email-to-folks] the shop earlier this month, owing to burnout and lack of a partner or investor relationship.
-- As a recent historical example, [The Walk-In Cookbook][twic] was a business in Park Slope that tried to perform a local, [Blue Apron][]-like experience. It closed a couple of years ago, but I am very curious about what happened with it.
+- As mentioned previously, [SCRATCHbread][] was an impassioned cry for involvement of the community into the dream of the founder, Matthew Tilden. He [decided to close][email-to-folks] the shop earlier this month, owing to burnout and lack of a partner or investor relationship.
+- As a recent historical example, [The Walk-In Cookbook][twic] was a business in Park Slope that tried to perform a local, [Blue Apron][]-like experience. It closed a couple of years ago, but I am very curious about what happened with it, and reached out to the former owner.
 - Of course, [The Brooklyn Kitchen][] is a great resource for people in the Williamsburg / Greenpoint neighborhood, with classes and parties. Is that the most appropriate model?
 
 [SCRATCHbread]: http://scratchbread.com
@@ -41,7 +45,7 @@ There are a bunch of other people who are doing things that are near and dear to
 
 ## Where I’m headed
 
-I’m still gathering information from folks about what’s good here. So more TK, obviously. I had a great conversation with a friend who’s working on dining projects down in Richmond, Virginia, such as [Longoven][] ([Instagram][longoven IG]), but has also talked about what he wantes to do with more community outreach down there. A different friend pointed me to the [Museum of Food and Drink][mofad], which sounds like a fascinating foray into the subject.
+I’m still hoping to gather more information from folks about what’s good here. So more TK, obviously. I had a great conversation with my aforementioned friend, working on dining projects down in Richmond, Virginia, such as [Longoven][] ([Instagram][longoven IG]). It veered into what he wants to do with community outreach down there—another possibility. A different friend pointed me to the [Museum of Food and Drink][mofad], which sounds like a fascinating foray into the subject.
 
 [Longoven]: http://www.longovenrva.com/
 [longoven IG]: https://instagram.com/longovenrva/
