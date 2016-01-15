@@ -10,6 +10,7 @@ This means I’m going to do something that’s against my nature. As someone wh
 With that understood, I’m going to do my best to be as aboveboard as I can with something like this. New posts will come with information about when they were originally written, and I’m going to try my best to find a way to make clarifications and edits obvious (without destroying the quality of the storytelling). Obviously I could just point people to the GitHub repo, but I think there’s something about the context of the experience that will also be important.
 
 Here’s my plan of attack:
+
 - “…And That’s When I Realized My Bag Was Gone,” a sad but ultimately positive story about how I had a bunch of shit stolen from me.
 - “What I Learned From My First Prototype,” my first attempt at an idea that went away from my original, community space idea, since my goal was to create something pretty concrete. With a minimalist set of (what I assumed were) common cooking tools, I tried to challenge people to make a meal in the studio space. A couple of people used it, with uneven results.
 - “Assumptions, Crazy Walls, and Thanksgiving” is me doing a little bit more synthesis on an assumption map that we built in the fall to help potentially organize my thoughts. Ultimately, I think I need to create [a physical manifestation](http://5by5.tv/b2w/249 "B2W #249: “A John Nash Moment”") of my thesis so far, as it feels like it’s leaking out of my brain.
