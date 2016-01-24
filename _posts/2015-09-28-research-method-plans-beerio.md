@@ -1,7 +1,9 @@
 ---
 title: "Research Plan: Beerio"
-summary: "You want a research plan? I’ll give you a research plan."
+summary: "An unhelpful and unexecuted plan whose original summary read: “You want a research plan? I’ll give you a research plan.”"
 ---
+
+*Postscipt: This is a pretty embarrassing post—but one borne out of frustration. Rather than working on my own terms, I felt like I had to take a prescriptive path through thesis. This post reflects that feeling, and I haven’t yet returned to Beerio as a subject.*
 
 Another of our assignments is to draft a research plan for one of our projects. I am choosing Beerio, as a means of looking at the aspects of a product that needs new direction and refinement.
 
