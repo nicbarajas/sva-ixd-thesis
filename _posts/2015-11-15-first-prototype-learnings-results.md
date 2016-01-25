@@ -20,7 +20,7 @@ I wanted to make as realistic a prototype as possible—it felt important that s
 
 My plan: A minimum set of equipment, anchored by a single induction burner, and additionally supplied with a modest set of supplies—a cutting board, knife, pot and pan, some prep and a couple other odds and ends. The hope was even if the first experiment failed, it would be a solid starting line for other means of experimentation.
 
-!(/sva-ixd-thesis/assets/prototype-one-equipment.jpg)
+![](/sva-ixd-thesis/assets/prototype-one-equipment.jpg)
 
 So far, so good. With few exceptions the equipment seems to be enough to at least get started, so on I went with deciding how it should be done. It was a pretty informal process, where ultimately I settled on a [one-pan dish][recipe] whose ingredients were easy enough to find, and set up the equipment in the graduate studio.
 
@@ -44,7 +44,7 @@ As we returned to the studio, I was confronted with an oversight: Access to the 
 
 Getting ready for the experiment, despite the bad ending, was insightful. Since I wanted to make sure I had all the things, I transferred the [recipe][] to an index card, and made sure that I had a clear understanding of how much (and what) I needed—and purchased in bulk for additional tests.
 
-!(/sva-ixd-thesis/assets/recipe-intro.jpg)
+![](/sva-ixd-thesis/assets/recipe-intro.jpg)
 
 It helped me clarify what was being made and the process of making it. Though it’s an incredibly simple recipe, which could make it too easy to provide much insight, committing the recipe to the index card that made me hyper focused in the grocery store on where I needed to be and what kinds of things I needed to pick up.
 
@@ -52,7 +52,7 @@ It also opened my eyes to things that were not in traditional recipes. As a comp
 
 My best bet was play testing the equipment for myself. I theorized at least I could ensure it was functional, and perhaps it would incite interest from others. It worked on the first point, though the only interest I conjured was hunger for my food.
 
-!(/sva-ixd-thesis/assets/recipe-action.jpg)
+![](/sva-ixd-thesis/assets/recipe-action.jpg)
 
 Owing to the inconveniences of scheduling and everybody else’s midterms / group meetings / own tests and prototypes, there were no real takers. Plus, I wanted to know my concept worked for my own piece of mind, so, I tried the experiment out on myself first.
 
@@ -75,7 +75,7 @@ What did not go so well:
 
 I have Max Kessler to thank for being one of the only outsiders to test my original concept, along with a couple others in the studio. That group found a couple of holes in available equipment—a missing set of measuring cups—which they thought was intentional, and felt the index card was a little too spare for cooking purposes.
 
-!(/sva-ixd-thesis/assets/prototype-one-max.jpg)
+![](/sva-ixd-thesis/assets/prototype-one-max.jpg)
 
 As part of my [shifting gears][], I reached out to the former proprietor of [The Walk-In Cookbook][walk-in-cookbook], a [former][whoops] grocery Park Slope that was angled at recipe-driven shopping. I wanted to find out a little more about what worked and what didn’t from his experiment.
 
