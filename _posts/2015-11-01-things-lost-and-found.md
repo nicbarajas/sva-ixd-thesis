@@ -20,7 +20,7 @@ I learned a lot from the stinging loss of that stuff, though the pain quickly su
 - *… but not as important as the cloud.* I had a couple of weird blips with Google Drive, but generally everything has kept on trucking with almost no delay. If you live your life in the cloud—and these days it’s relatively easy—your devices could take a bath on a weekly basis without much harm to your ability to get work done.
 - *Habits are difficult.* I’ve made a go at setting up things from scratch, but the cost of trying to do that is really high, and makes me wonder if I really should have just spent the time restoring a recent device backup.
 - *Making my workflow device-agnostic is a huge win.* Friends, or at least classmates, know me as the iPad guy in the class. I avoided a full computer as much as I was able, to great success in some areas.
-
+    
     And overall, it’s made me mostly pleased with my early choice to store most thesis notes on GitHub. From a workflow perspective, re-establishing a means of adding posts and updating on thesis has literally required cramming my face into my iPhone—90% of what I wrote right after this time has been with my two thumbs. (Though when it rains it pours: My iPhone’s screen developed a bright spot, so I found myself at the Genius Bar the week after to have the thing replaced.)
     
 It’s not all sunshine and puppies, of course. Taking a hard look at what I needed to do highlighted the deficiency of my workflow, which means continuing to struggle at doing things like providing timely updates or including more multimedia in my posts.
