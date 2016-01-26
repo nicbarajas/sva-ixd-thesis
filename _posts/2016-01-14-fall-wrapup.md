@@ -11,7 +11,7 @@ With that understood, I’m going to do my best to be as aboveboard as I can wit
 
 Here’s my plan of attack:
 
-- [“-…And That’s When I Realized My Bag Was Gone][things-lost-and-found],” a sad but ultimately positive story about how I had a bunch of shit stolen from me.
+- “[…And That’s When I Realized My Bag Was Gone][things-lost-and-found],” a sad but ultimately positive story about how I had a bunch of shit stolen from me.
 - “What I Learned From My First Prototype,” my first attempt at an idea that went away from my original, community space idea, since my goal was to create something pretty concrete. With a minimalist set of (what I assumed were) common cooking tools, I tried to challenge people to make a meal in the studio space. A couple of people used it, with uneven results.
 - “Assumptions, Crazy Walls, and Thanksgiving” is me doing a little bit more synthesis on an assumption map that we built in the fall to help potentially organize my thoughts. Ultimately, I think I need to create [a physical manifestation](http://5by5.tv/b2w/249 "B2W #249: “A John Nash Moment”") of my thesis so far, as it feels like it’s leaking out of my brain.
 - “Creating a Tiny Kitchen,” what I delivered as the final of the fall semester, was a twist on that first prototype. It gave a tiny, physical presence to the cooking tools and some suggestions, along with iteration to try to build a means of helping through Slack. It was ultimately not very successful at drawing in new people, but I made a great meal on it.

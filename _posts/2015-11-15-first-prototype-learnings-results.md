@@ -26,8 +26,6 @@ So far, so good. With few exceptions the equipment seems to be enough to at leas
 
 Unfortunately, my recruiting process for the prototype was non-existent, and I scrambled towards the presentation finish line struggling to figure out who might try it out. Though I didn’t want to recruit friends, I didn’t have a good sense of where to get interested strangers, and so ultimately ended up asking friends anyhow.
 
-[recipe]: http://www.myrecipes.com/recipe/skillet-sausage-n-rice
-
 ## Matt, My Potential User
 
 This story will end badly, but it ended up providing a lot of insight.
@@ -105,3 +103,6 @@ My notes to potential test subjects in Slack read as follows:
 > - the induction cooktop has ten power settings; five is medium-high, two is medium-low.
 > 
 > Mention me in Slack if this is unclear, and of course I would like to know your story. Happy cooking!
+
+[recipe]: http://www.myrecipes.com/recipe/skillet-sausage-n-rice
+
