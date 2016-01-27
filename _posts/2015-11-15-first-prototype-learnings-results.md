@@ -1,6 +1,6 @@
 ---
-title:"What I Learned From My First Prototype"
-summary:"Some good, some bad, but generally, it’s worth doing your homework and taking recruiting seriously"
+title: "What I Learned From My First Prototype"
+summary: "Some good, some bad, but generally, it’s worth doing your homework and taking recruiting seriously"
 ---
 
 Despite my [sudden trouble][stolen], the show must go on, and so I did and used what I could to re-establish a path forward. That post was drafted on my girlfriend’s computer—after hours of trying to configure it for GitHub—and I got to an idea I was excited, if not a little hesitant about.
