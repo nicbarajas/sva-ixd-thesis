@@ -17,6 +17,8 @@ Here’s my plan of attack:
 - “Creating a Tiny Kitchen,” what I delivered as the final of the fall semester, was a twist on that first prototype. It gave a tiny, physical presence to the cooking tools and some suggestions, along with iteration to try to build a means of helping through Slack. It was ultimately not very successful at drawing in new people, but I made a great meal on it.
 - “A Huge Mess of Links” is going to be my attempt to clear out a boatload of tabs that are sitting on my various devices. I think this is going to be particularly interesting, and I might make it a series of posts instead of one huge dump.
 
+[prototype-one]: http://nicbarajas.github.io/sva-ixd-thesis/2015/11/15/first-prototype-learnings-results/
+
 I’m also thinking about the future: a fresh look at the food and home cooking landscape, including a potential survey of pain points; potentially taking another stab at cooking spaces for professionals that can help them reach out to a community; and of course getting out there to learn more. This process requires a little more help, though, so I‘m looking for a thesis advisor to help me get there.
 
 [things-lost-and-found]: http://nicbarajas.github.io/sva-ixd-thesis/2015/11/01/things-lost-and-found/
