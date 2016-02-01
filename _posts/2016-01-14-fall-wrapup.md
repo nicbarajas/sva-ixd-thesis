@@ -22,5 +22,6 @@ Here’s my plan of attack:
 I’m also thinking about the future: a fresh look at the food and home cooking landscape, including a potential survey of pain points; potentially taking another stab at cooking spaces for professionals that can help them reach out to a community; and of course getting out there to learn more. This process requires a little more help, though, so I‘m looking for a thesis advisor to help me get there.
 
 [things-lost-and-found]: http://nicbarajas.github.io/sva-ixd-thesis/2015/11/01/things-lost-and-found/
+[prototype-one]: http://nicbarajas.github.io/sva-ixd-thesis/2015/11/15/first-prototype-learnings-results/
 
 It’s great to start feeling productive again, and I’m looking forward to telling my story better as well as continue exploring my topic area.
