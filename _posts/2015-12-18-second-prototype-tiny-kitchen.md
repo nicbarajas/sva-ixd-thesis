@@ -67,6 +67,5 @@ What didn’t work:
 - It was still stuck in the studio. It would have been great to see how this would have fared with a more random crowd or a more public venue.
 - Bad timing. End of the semester, with finals looming overhead for others? No incentive seemed to matter—I could not get a participant.
 - The signage for the prototype didn’t feel very well considered, some mentioned. Though I thought about what might be helpful for potential users, it was not built as an enticing call to action, but more as an instruction manual.
-- 
 
 My fall ended on a middling note, but it was encouraging to think about how I could take the ideas of the fall and begin anew in the spring as I home in on a clearer direction for my project.

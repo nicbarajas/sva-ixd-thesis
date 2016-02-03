@@ -1,3 +1,16 @@
+---
+title: "Criteria"
+summary: "Spring semester is about getting back to work, so it’s time to focus on who and what I’m doing—eventually."
+---
+
+List the areas in your thesis concept to further explore for: 
+a) interaction
+b) design
+c) technical
+What are existing attributes of your thesis concept to further refine and iterate?
+What new areas have you not yet explored that are really essential? If they're not essential, can you rule them out to simplify your path moving forward?
+In thinking about the user's experience what phases have you overly focused on? What parts of the experience have gone under-explored?
+
 Decision Making Criteria List:
 Many of you expressed concerns around decision making in the remaining course of your thesis exploration. This is also a challenge outside of academia - clients and businesses struggle with this, e.g. so-called "stranded innovation" (many businesses struggle to know when a good but difficult idea is happening, when to "kill" it vs when to nurture it). One of the important aspects to help you in this endeavor is to structure criteria early on for evaluating these decisions (before our emotions run in). It not only helps with your own cycles of iteration and the later narrowing phase but it is also a useful list for collecting feedback from users as we share our ideas (helping to ask deeper questions than "do you like it?"). 
 Create a blog post to draft a two-part list of criteria for evaluating your ideas (and assist in decision making along the course). In each list (or diagram), describe important attributes and criteria for your thesis work to date.
