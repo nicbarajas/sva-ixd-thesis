@@ -30,9 +30,9 @@ Though the exercise was quick, the results behind it were interesting and import
 
 While I would still like to make an effort to survey potential users about what keeps them from cooking, particularly to validate some of these assumptions, I also spent a little time talking with my class about what they see as habits or potential pitfalls.
 
-The discussion ended up depicting the cooking experience as this sort of roller coaster of emotional state, which ended in mediocre outcomes: either dropping off, or feeling uninspired. As one person said, “I did all the things you’re supposed to do,” but the difficulty of trying to know how much effort is required to get to the next step or produce a new dish is difficult to know, and doesn’t overcome a perceived lack of excitement for an activity that’s no longer novel. How, the question was posed, do you get to get people to continue?
+The discussion ended up depicting the cooking experience as this sort of roller coaster of emotional state, which ended in mediocre outcomes: either dropping off, or feeling uninspired. As one person said, “I did all the things you’re supposed to do,” but the difficulty of trying to know how much effort is required to get to the next step or produce a new dish is difficult to know, and doesn’t overcome a perceived lack of excitement for an activity that’s no longer novel. How, the question went, do you get to get people to continue?
 
-From a testing scenario for the final prototype, there were important questions that needed to be answered in its design, all centered around how this would be different than the last prototype and what, exactly, was being tested. It needed to be clear what I was planning to test so that the results are meaningful
+From a testing scenario for the final prototype, there were important questions that needed to be answered in its design, all centered around how this would be different than the last prototype and what, exactly, was being tested. It needed to be clear what I was planning to test so that the results are meaningful.
 
 ## Competitive Testing
 
