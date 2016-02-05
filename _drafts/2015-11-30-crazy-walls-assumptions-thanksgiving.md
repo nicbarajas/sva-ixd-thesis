@@ -7,17 +7,23 @@ As the fall winds towards our final prototype of the semester, it’s worth look
 
 ## Assumption Mapping
 
-Assumptions, Crazy Walls, and Thanksgiving” is me doing a little bit more synthesis on an assumption map that we built in the fall to help potentially organize my thoughts.
+As part of our fall’s work, one of our thesis class sessions revolved around the creation of an assumption map. A lot of good things came out of building an assumption map with my classmates, primarily the scope of the field I’m interested. Cooking is such a large, unwieldy field, it’ll be worth focusing more on a particular area or smaller set of user needs.
 
+### Assumptions
 
-Dump from notes:
+Some basic assumptions about cooking:
 
-Another assumption: the knowledge of how to use the tools
-
-Tools
-Space
-Time—time to prep, time to cook, time to eat, time to clean
-Knowledge
+- Tools
+-- Another assumption: the knowledge of how to use the tools
+- Space
+- Time
+-- To prep
+-- To cook
+-- To eat
+-- To clean
+- Knowledge
+-- Recipes
+-- Techniques
 
 Test against people with knowledge in the field
 
