@@ -11,10 +11,12 @@ As part of our fall’s work, one of our thesis class sessions revolved around t
 
 ### Assumptions
 
-Although this assumption map exercise was done before my [first prototype][] was finished, it didn’t necessarily contribute towards helping that project, since I was mostly in heads-down working mode. 
+Although this assumption map exercise was done before my [first prototype][] was finished, it didn’t necessarily contribute towards helping that project, since I was mostly in heads-down working mode.
+
+[first prototype]: http://nicbarajas.github.io/sva-ixd-thesis/2015/11/15/first-prototype-learnings-results/
+
 
 ![My sketch from class.](/sva-ixd-thesis/assets/assumption-map.jpg)
-[first prototype]: http://nicbarajas.github.io/sva-ixd-thesis/2015/11/15/first-prototype-learnings-results/
 
 Some basic assumptions about cooking:
 
@@ -44,7 +46,7 @@ I also got turned onto an article about [meal prep subscription boxes][wisebread
 
 [wisebread]: http://www.wisebread.com/are-meal-prep-subscription-boxes-worth-it "Are Meal Prep Subscription Boxes Worth It?"
 
-Ultimately, the meal-subscription ground is well-trod, and the kind of logistical trouble that seems not worth my brainpower. Gives me great memories of 99% Invisible’s episodes on [MREs][war-and-pizza] and [shipping containers][reefer-madness]
+Ultimately, the meal-subscription ground is well-trod, and the kind of logistical trouble that seems not worth my brainpower. Gives me great memories of 99% Invisible’s episodes on [MREs][war-and-pizza] and [shipping containers][reefer-madness].
 
 [war-and-pizza]: http://99percentinvisible.org/episode/war-and-pizza/
 [reefer-madness]: http://99percentinvisible.org/episode/reefer-madness/
