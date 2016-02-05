@@ -14,6 +14,7 @@ As part of our fall’s work, one of our thesis class sessions revolved around t
 Although this assumption map exercise was done before my [first prototype][] was finished, it didn’t necessarily contribute towards helping that project, since I was mostly in heads-down working mode. 
 
 ![My sketch from class.](/sva-ixd-thesis/assets/assumption-map.jpg)
+
 [first prototype]: http://nicbarajas.github.io/sva-ixd-thesis/2015/11/15/first-prototype-learnings-results/
 
 Some basic assumptions about cooking:
