@@ -1,5 +1,5 @@
 ---
-title: "Assumptions, Crazy Walls, and Thanksgiving"
+title: "Assumptions, Feedback and Thanksgiving"
 summary: "An assignment from class involved us thinking about all the assumptions of our topic area; meanwhile, I also did some in-situ testing over Thanksgiving break."
 ---
 
@@ -11,61 +11,28 @@ As part of our fall’s work, one of our thesis class sessions revolved around t
 
 ### Assumptions
 
+Although this assumption map exercise was done before my [first prototype][] was finished, it didn’t necessarily contribute towards helping that project, since I was mostly in heads-down working mode. 
+
+![My sketch from class.](/sva-ixd-thesis/assets/assumption-map.jpg)
+[first prototype]: http://nicbarajas.github.io/sva-ixd-thesis/2015/11/15/first-prototype-learnings-results/
+
 Some basic assumptions about cooking:
 
-- Tools
--- Another assumption: the knowledge of how to use the tools
-- Space
-- Time
--- To prep
--- To cook
--- To eat
--- To clean
-- Knowledge
--- Recipes
--- Techniques
+- Requirements for having good or specific tools
+- Space that is specific to the work being done
+- Time for all the various activities
+- Knowledge of recipes, techniques 
+- Desire (or lack thereof) for cleaning
 
-Test against people with knowledge in the field
+Though the exercise was quick, the results behind it were interesting and important, and the kind of work I would like to return to later.
 
-Coworking space—has it changed their habits?
+## Class Feedback
 
-Survey friend group: what keeps them from cooking?
+While I would still like to make an effort to survey potential users about what keeps them from cooking, particularly to validate some of these assumptions, I also spent a little time talking with my class about what they see as habits or potential pitfalls.
 
-Does cooking in bursts
-Already has all the stuff
-“I did all the things you’re supposed to do”
-Get excited, novelty wears off
-Effort is required (or appears to be required)
-How to get people to continue
+The discussion ended up depicting the cooking experience as this sort of roller coaster of emotional state, which ended in mediocre outcomes: either dropping off, or feeling uninspired. As one person said, “I did all the things you’re supposed to do,” but the difficulty of trying to know how much effort is required to get to the next step or produce a new dish is difficult to know, and doesn’t overcome a perceived lack of excitement for an activity that’s no longer novel. How, the question was posed, do you get to get people to continue?
 
-Burden of figuring out what to do
-Laziness
-
-Roommates?
-
-**Ask how the experience differed**
-How to separate what’s being tested
-Needs to be clear what you’re testing
-What results are meaningful
-
-Answer whether the meal / ingredients are provided or not
-
-Planned thing, give all the tools and step back to progress someone into being a self-sufficient home cook
-
-Figure out what can be eliminated over time, is it equipment, ingredients, recipes?
-
-How do you prevent the inevitable burnout? Once the novelty is gone
-
-May have to narrow down audience—there is some implied knowledge about the ability to follow a recipe
-
-Figure out the knowledge base of the consumer
-
-In a group setting (?) what’s going to happen with various levels of skill?
-
-Try a few experiments?
-Tools / recipe / food
-Tools / recipe
-Tools / recipe idea
+From a testing scenario for the final prototype, there were important questions that needed to be answered in its design, all centered around how this would be different than the last prototype and what, exactly, was being tested. It needed to be clear what I was planning to test so that the results are meaningful
 
 ## Competitive Testing
 
@@ -77,6 +44,11 @@ I also got turned onto an article about [meal prep subscription boxes][wisebread
 
 [wisebread]: http://www.wisebread.com/are-meal-prep-subscription-boxes-worth-it "Are Meal Prep Subscription Boxes Worth It?"
 
+Ultimately, the meal-subscription ground is well-trod, and the kind of logistical trouble that seems not worth my brainpower. Gives me great memories of 99% Invisible’s episodes on [MREs][war-and-pizza] and [shipping containers][reefer-madness]
+
+[war-and-pizza]: http://99percentinvisible.org/episode/war-and-pizza/
+[reefer-madness]: http://99percentinvisible.org/episode/reefer-madness/
+
 ## Cooking with Family
 
 Over the Thanksgiving break, I ended up cooking far more than usual as a part of testing out the various physical spaces of family members, along with their equipment.
@@ -85,8 +57,8 @@ One mistake I made in retrospect was not involving my family enough in the proce
 
 Despite that, it wasn’t a completely one-person operation. At my parents’ house, at least, I managed to involve my mother in the project to help speed things up. What I noticed from that interaction was about being able to centralize preparatory space—because of some of the fixed equipment in the kitchen, my mother had to work in the dining room in order to get some thing ready, which in retrospect was kind of crazy.
 
-The other obvious problem I encountered was around tools. It’s unclear to me how this happens, but in all three places I cooked—my aunt’s, my grandmother’s and my parents’—nobody had a decent knife. Surfaces on which to cut were also difficult to come by in most cases.
+The other obvious problem I encountered was around tools. It’s unclear to me how this happens, but in all three places I cooked—my aunt’s, my grandmother’s and my parents’—nobody had a decent knife. Surfaces on which to cut were also difficult to come by in most cases. I still can’t put my finger on it but something is missing.
 
-## Looking ahead
+## Looking Ahead
 
-Ultimately, I think I need to create a physical manifestation of my thesis so far, as it feels like it’s leaking out of my brain.
+What feels important coming up will be a physical manifestation of my thesis so far. It feels like it’s leaking out of my brain. The assumption map was a start, but it needs a bigger output.

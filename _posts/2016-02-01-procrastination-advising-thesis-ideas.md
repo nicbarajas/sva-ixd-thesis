@@ -57,7 +57,7 @@ I’m calling the product *TK Kitchen* for now, partially because I was using th
 
 In our Narrative class, what struck me as particularly important was the narrative arc that comes into three incredibly important points—the beginning and who the primary actor of the story is; the crucial hump through which a person must travel, so they can go from knowing their problem to finding a point of resolution; and that ending and how a person *feels* at the end of it all.
 
-Taking her [storytelling model][] as an example, that “home cooks” introduced in the concept statement is a person who’s either green to cooking or trying to get more comfortable with making food at home, and their end state is to be confident in the kitchen. Right now, the way I see that happening is by providing them dominion over the process in a controlled manner that requires limited interaction from an instructor, so they can take charge.
+Taking Donna Lichaw’s [storytelling model][] as an example, that “home cooks” introduced in the concept statement is a person who’s either green to cooking or trying to get more comfortable with making food at home, and their end state is to be confident in the kitchen. Right now, the way I see that happening is by providing them dominion over the process in a controlled manner that requires limited interaction from an instructor, so they can take charge.
 
 [storytelling model]: http://www.greatnorthelectric.com/blog/2015/1/14/who-is-telling-the-best-product-brand-and-experience-stories
 
