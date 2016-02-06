@@ -3,6 +3,8 @@ title: "Criteria"
 summary: "Spring semester is about getting back to work, so it’s time to focus on who and what I’m doing—eventually."
 ---
 
+
+
 List the areas in your thesis concept to further explore for: 
 a) interaction
 b) design
