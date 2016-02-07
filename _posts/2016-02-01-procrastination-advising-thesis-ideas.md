@@ -43,7 +43,7 @@ Ultimately, once I got back into the groove of doing work, what made it fantasti
 But enough about that—as fun and long and ridiculous as it is. The most important thing that I needed to deliver today for class has been a thesis concept statement and a general direction. It’s not necessarily going to be a surprise, considering my [first][1st proto] and [second][2nd proto] prototypes focused on home cooks and various limitations of their space or tools.
 
 [1st proto]: http://nicbarajas.github.io/sva-ixd-thesis/2015/11/15/first-prototype-learnings-results/
-[2nd proto]: / "TK"
+[2nd proto]: http://nicbarajas.github.io/sva-ixd-thesis/2015/12/18/second-prototype-tiny-kitchen/ "TK"
 
 As Stefani and I talked on Wednesday, she helped me make clear that’s still a very important direction with a lot of opportunity to reimagine the potential interactions.
 
@@ -51,9 +51,12 @@ As Stefani and I talked on Wednesday, she helped me make clear that’s still a 
 
 I’m calling the product *TK Kitchen* for now, partially because I was using the existing name Tiny Kitchen of Times Video fame, but also because TK literally comes from the newspaper world as a term meaning “to come” for content that isn’t there yet. Here’s how we’ve been instructed to lay out the claim:
 
-- *For* home cooks *who* are trying to learn skills that are new to them,
-- *TK Kitchen* is a teaching kit that provides a basic set of tools and reference material.
-- Unlike traditional classes and recipe sites, *TK Kitchen* encourages self-discovery and practical reference material.
+- *For* home cooks
+- *Who* are trying to learn skills that are new to them,
+- *TK Kitchen* is a teaching kit
+- *That* provides a basic set of tools and reference material.
+- *Unlike* traditional classes and recipe sites,
+- *TK Kitchen* encourages self-discovery and practical reference material.
 
 In our Narrative class, what struck me as particularly important was the narrative arc that comes into three incredibly important points—the beginning and who the primary actor of the story is; the crucial hump through which a person must travel, so they can go from knowing their problem to finding a point of resolution; and that ending and how a person *feels* at the end of it all.
 
@@ -61,10 +64,12 @@ Taking Donna Lichaw’s [storytelling model][] as an example, that “home cooks
 
 [storytelling model]: http://www.greatnorthelectric.com/blog/2015/1/14/who-is-telling-the-best-product-brand-and-experience-stories
 
-### Third Prototype
+### Third Prototype, Take One
 
-From that statement, it’s still pretty hazy what my next prototype might look like. Since I’m just managing to establish a rapport with Stefani, we haven’t necessarily talked a lot about what my next prototype could be. From the [previous class][], when we were supposed to have an idea for an alternate approach, I’m actually kind of interested in where that’s headed.
+From that statement, it’s still pretty hazy what my next prototype might look like. Since I’m just managing to establish a rapport with Stefani, we haven’t necessarily talked a lot about what my next prototype could be. From the previous class, when we were supposed to have an idea for an alternate approach, I’m actually kind of interested in where that’s headed.
 
-**Note:** Since the link above isn’t functional at the moment, my alternate approach involves a sort of flash card-style set of techniques, which was focused on the prep aspect of home chef experience—but I’m still curious if that’s where the moment of intervention is actually needed.
+![An example flash card For my third prototype thinking.](/sva-ixd-thesis/assets/prototype-three-v1-index-cards.jpg)
 
-[previous class]: / "TK"
+My alternate approach involves a sort of flash card-style set of techniques, which is focused on the prep aspect of home chef experience—but I’m still curious if that’s where the moment of intervention is actually needed.
+
+***Updated 2/7:** Changed to clarify the concept statement according to how Eric Forman described it in our class. I also added the first-round third prototype concept here, which has since changed.*
