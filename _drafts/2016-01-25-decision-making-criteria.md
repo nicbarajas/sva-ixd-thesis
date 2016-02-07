@@ -1,22 +1,40 @@
 ---
-title: "Criteria"
-summary: "Spring semester is about getting back to work, so it’s time to focus on who and what I’m doing—eventually."
+title: "Crunch Time"
+summary: "Spring semester is about getting back to work, so it’s time to focus on the what, why, and how of thesis. Time to start making decisions."
 ---
 
+With my advisor on board and a couple of meetings already stowed away, it’s time to really focus on what I can do to better understand my chosen space and where I can make improvements. My previous [concept statement][], which did an okay job of describing high-level values, but is far too vauge for me to actually use to come up with my next steps.
 
+[concept statement]: http://nicbarajas.github.io/sva-ixd-thesis/2016/02/01/procrastination-advising-thesis-ideas/#concept-statement
 
-List the areas in your thesis concept to further explore for: 
-a) interaction
-b) design
-c) technical
-What are existing attributes of your thesis concept to further refine and iterate?
-What new areas have you not yet explored that are really essential? If they're not essential, can you rule them out to simplify your path moving forward?
-In thinking about the user's experience what phases have you overly focused on? What parts of the experience have gone under-explored?
+Stefani encouraged me to reconsider the statement from the point of view of what I’m making, why I’m making it, and who it’s for in a way that made me specifically describe the solutions and their importance. Unpacking the statement made it clearer what problem I’m pursuing so I can begin building, rather than trying to design the system for it first.
 
-Decision Making Criteria List:
-Many of you expressed concerns around decision making in the remaining course of your thesis exploration. This is also a challenge outside of academia - clients and businesses struggle with this, e.g. so-called "stranded innovation" (many businesses struggle to know when a good but difficult idea is happening, when to "kill" it vs when to nurture it). One of the important aspects to help you in this endeavor is to structure criteria early on for evaluating these decisions (before our emotions run in). It not only helps with your own cycles of iteration and the later narrowing phase but it is also a useful list for collecting feedback from users as we share our ideas (helping to ask deeper questions than "do you like it?"). 
-Create a blog post to draft a two-part list of criteria for evaluating your ideas (and assist in decision making along the course). In each list (or diagram), describe important attributes and criteria for your thesis work to date.
-User        User needs and design criteria uncovered in the course of your research to date.
-Personal     Your personal criteria - what are attributes that are important to you?
-Keep in mind when describing these the level that will be most useful to you. For example wanting to make something "useful" or "relevant" is way too broad. What have you uncovered that describes what exactly is relevant in your particular project domain? After comparing the two lists, what areas can you identify that might not be personally interesting to develop but you admit will be necessary for the needs of your user? Start brainstorming strategies to begin work on those to avoid pushing them until the last minute.
-This is a draft. We'll discuss these in class and there will be more iterations of these in the weeks to come. And these may evolve as you continue to learn and explore through your prototype investigations.
+## Decision Making Criteria
+
+One of the suggested exercises in preparing us for this next (and potentially finaly) prototype is to develop two lists of criteria to help us evaluate our ideas. This has been tweaked a little bit as I’ve tried to update it while developing new ideas, and have gotten good feedback from classmates to add to this.
+
+![My decision making critera, in chart form. User and personal criteria in a matrix with my ideas. The text below explains.](/sva-ixd-thesis/assets/decision-criteria-v1.jpg)
+
+The big pieces of the matrix from my personal and user criteria are to build a physical thing and to provide confidence in the home cook, respectively. Though I think the flash cards of my last idea check some of those boxes, trying to change it into an idea that checks more of them off muddles it in with competition like [Nourish][].
+
+[Nourish]: 
+
+The newest idea, which makes me a lot more excited about the possibilities, checks off those along with a few other boxes for things like better understanding the cooking process.
+
+## Concept Statement, Take Two
+
+Now that we’ve changed things up, it’s time to take a second crack at my concept statement, with something that’s much more specific.
+
+- *For* home cooks that know how to do basic things in the kitchen like chop, but don’t consider themselves to have mastered fine cooking skills;
+- *Who* want to make their cooking experience more efficient and less stressful;
+- *TK Kitchen* is two things: a basic set of culinary equipment for food preparation before cooking, along with a redesigned recipe experience
+- *That* give less experienced cooks solid tools and clear instructions for the equipment needed so they can work through the prep stage.
+- *Unlike* traditional cooking classes, meal delivery services and recipe books/sites,
+- *TK Kitchen* highlights the prep stage of the cooking process and makes it more navigable and less prone to error or stress.
+
+The reason I’ve chosen to attack both of these, rather than just one of them, is because I believe there is a notable gap in how most people who craft recipes treat the stages before you are making the meal. Despite the way people put emphasis on meal planning or spending time making food, prep is still a foreign concept to most. *Mise en place* is a vital aspect of what can change the ability for a cook to execute on a recipe, and my hope is to bring light to this and improve it.
+
+## Prototype Three, Revisited
+
+Based on this change of heart and reframing of the concept, here’s my thinking on the timeline that will help me hit my deadline and ship an excellent product:
+
