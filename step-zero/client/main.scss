@@ -1,0 +1,45 @@
+/* Sass declarations go here */
+
+.container {
+  max-width: 1172px;
+  margin: 0 auto;
+}
+
+#recipe-main {
+  padding-top: 38px;
+}
+
+#recipe-navigation {
+  height: 38px;
+  position: fixed;
+  width: 100%;
+  background: pink;
+}
+// Column structure
+
+.one-column {
+  width: 136px;
+}
+.two-columns {
+  width: 284px;
+}
+.three-columns {
+  width: 432px;
+}
+.four-columns {
+  width: 580px;
+}
+.five-columns {
+  width: 728px;
+}
+.six-columns {
+  width: 876px;
+}
+.flex {
+  display: flex;
+  justify-content: space-between;
+
+  div {
+    background: rgba(200,200,255,0.1);
+  }
+}
