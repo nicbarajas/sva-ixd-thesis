@@ -1,9 +1,10 @@
-import { Mongo } from 'meteor/mongo';
+import { Template } from 'meteor/templating';
+import { Markdown } from 'meteor/markdown';
 
-export const Recipes = new Mongo.Collection('recipes');
+import './body.html';
 
-if (Recipes.find().count() === 0) {
-  Recipes.insert({
+Template.body.helpers({
+  recipes: [ {
     "uri" : "http://www.edamam.com/ontologies/edamam.owl#recipe_73ac0d6b448683646f76a2689875d900",
     "label" : "Chicken with Tomatoes and Mushrooms",
     "image" : "https://www.edamam.com/web-img/084/0847271b3ef60e83e404778fb583832c.jpg",
@@ -55,6 +56,42 @@ if (Recipes.find().count() === 0) {
       "measure" : "tsp",
       "food" : "dried oregano",
       "weight" : 0.45
+    } ],
+    "prep" : [ {
+      "text" : "**Mince** garlic gloves",
+      "tip" : "Garlic should be as small as possible, in very fine pieces (about 1/8 in)."
+    }, {
+      "text" : "**Trim** and **quarter** the mushrooms",
+      "tip" : "Remove the stems and cut mushrooms into four equal-sized pieces."
+    }, {
+      "text": "**Season** the chicken with salt and pepper",
+      "tip": "Immediately place the cutting board in the sink and wash your hands after to prevent contamination from raw meat."
+    } ],
+    "steps" : [ {
+      "text" : "Step One",
+      "directions": [ {
+        "text" : "**Heat** oil in the *saucepan* over medium-high heat; **swirl** to coat bottom of pan."
+      }, {
+        "text" : "**Cook** chicken, **turning** (with *tongs*) when it easily releases from the pan, until golden, 4 to 6 minutes."
+      }, {
+        "text" : "**Transfer** chicken to plate."
+      } ]
+    }, {
+      "text" : "Step Two",
+      "directions": [ {
+        "text" : "**Add** mushrooms; **cover**, and **cook** until softened, about 5 minutes."
+      }, {
+        "text" : "**Add** garlic, tomatoes, and oregano."
+      }, {
+        "text" : "**Reduce** heat to medium-low; **cook**, covered, until tomatoes have broken down, 10 to 15 minutes."
+      } ]
+    }, {
+      "text" : "Step Three",
+      "directions" : [ {
+        "text" : "**Return** chicken and any accumulated juices to pan; cover, and **cook** until chicken is opaque throughout, 4 to 6 minutes."
+      }, {
+        "text" : "**Turn** chicken to coat with sauce, and serve."
+      } ]
     } ]
-  });
-}
+  } ]
+})

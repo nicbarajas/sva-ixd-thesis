@@ -1,0 +1,58 @@
+<body>
+  <div class="container">
+    <header>
+      <h1>Step Zero</h1>
+    </header>
+    <main>
+      {{#each recipes}}
+        {{> recipe}}
+      {{/each}}
+    </main>
+  </div>
+</body>
+
+<template name="recipe">
+  <div class="recipe">
+    <h2>{{label}}</h2>
+
+    <ul class="ingredients">
+      {{#each ingredients}}
+        {{> ingredient}}
+      {{/each}}
+    </ul>
+
+    <ul class="prep">
+      {{#each prep}}
+        {{> prep}}
+      {{/each}}
+    </ul>
+
+    <ol class="directions">
+      {{#each steps}}
+        {{> step}}
+      {{/each}}
+    </ol>
+  </div>
+</template>
+
+<template name="ingredient">
+  <li>{{#markdown}}{{text}}{{/markdown}}</li>
+</template>
+
+<template name="prep">
+  <li>
+    <p>{{#markdown}}{{text}}{{/markdown}}</p>
+    <p>{{#markdown}}{{tip}}{{/markdown}}</p>
+  </li>
+</template>
+
+<template name="step">
+  <li>
+    <h2>{{#markdown}}{{text}}{{/markdown}}</h2>
+    <ul class="directions">
+      {{#each directions}}
+        <li>{{#markdown}}{{text}}{{/markdown}}</li>
+      {{/each}}
+    </ul>
+  </li>
+</template>
