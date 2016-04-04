@@ -13,21 +13,41 @@
 
 <template name="recipe">
   <div class="recipe">
-    <h2>{{label}}</h2>
+    <h1 class="Recipe-Name">{{label}}</h1>
 
-    <ul class="ingredients">
+    <h2 class="Step-Header">Ingredients</h2>
+    <ul>
       {{#each ingredients}}
         {{> ingredient}}
       {{/each}}
     </ul>
 
-    <ul class="prep">
-      {{#each prep}}
-        {{> prep}}
-      {{/each}}
+    <div class="prep">
+
+      <h2 class="Step-Header">Step Zero</h2>
+
+      <h3>Prep tools you will need</h3>
+      <ul class="tools">
+        <li class="Object-Label"><p>Tool.</p></li>
+      </ul>
+
+      <h3>Prep steps</h3>
+      <ul class="prep-steps">
+        {{#each prep}}
+          {{> prep}}
+        {{/each}}
+      </ul>
+    </div>
+
+    <h2 class="Step-Header">Cooking Steps</h2>
+
+    <h3 class="Step-Subheader">Cooking tools you will need</h3>
+    <ul class="tools">
+      <li class="Object-Label"><p>Tool.</p></li>
     </ul>
 
-    <ol class="directions">
+    <h3 class="Step-Subheader">Cooking steps</h3>
+    <ol class="steps">
       {{#each steps}}
         {{> step}}
       {{/each}}
@@ -36,22 +56,22 @@
 </template>
 
 <template name="ingredient">
-  <li>{{#markdown}}{{text}}{{/markdown}}</li>
+  <li class="Ingredient-List">{{#markdown}}{{text}}{{/markdown}}</li>
 </template>
 
 <template name="prep">
-  <li>
-    <p>{{#markdown}}{{text}}{{/markdown}}</p>
-    <p>{{#markdown}}{{tip}}{{/markdown}}</p>
+  <li class="Step-Zero-List">
+    {{#markdown}}{{text}}
+    {{tip}}{{/markdown}}
   </li>
 </template>
 
 <template name="step">
   <li>
-    <h2>{{#markdown}}{{text}}{{/markdown}}</h2>
+    <h2 class="Cooking-Step">{{text}}</h2>
     <ul class="directions">
       {{#each directions}}
-        <li>{{#markdown}}{{text}}{{/markdown}}</li>
+        <li class="Cooking-Step-List">{{#markdown}}{{text}}{{/markdown}}</li>
       {{/each}}
     </ul>
   </li>
