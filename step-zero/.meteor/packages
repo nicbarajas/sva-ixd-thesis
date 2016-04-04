@@ -21,3 +21,7 @@ autopublish             # Publish all data to the clients (for prototyping)
 insecure                # Allow all DB writes from clients (for prototyping)
 fourseven:scss
 meyerweb-reset
+reactive-dict
+kadira:flow-router
+kadira:blaze-layout
+aldeed:simple-schema

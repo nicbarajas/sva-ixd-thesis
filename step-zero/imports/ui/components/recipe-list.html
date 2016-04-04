@@ -1,0 +1,13 @@
+<template name="Recipe_list">
+  <div class="container">
+    <header>
+      <h1>Recipe List</h1>
+    </header>
+
+    <ul>
+      {{#each recipes}}
+        <li>{{label}}</li>
+      {{/each}}
+    </ul>
+  </div>
+</template>

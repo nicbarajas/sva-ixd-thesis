@@ -1,0 +1,568 @@
+"recipe" : {
+  "uri" : "http://www.edamam.com/ontologies/edamam.owl#recipe_73ac0d6b448683646f76a2689875d900",
+  "label" : "Chicken with Tomatoes and Mushrooms",
+  "image" : "https://www.edamam.com/web-img/084/0847271b3ef60e83e404778fb583832c.jpg",
+  "source" : "Martha Stewart",
+  "sourceIcon" : "http://www.marthastewart.com/sites/all/themes/marthastewart/images/favicon.ico",
+  "url" : "http://www.marthastewart.com/316032/chicken-with-tomatoes-and-mushrooms",
+  "shareAs" : "http://www.edamam.com/recipe/chicken-with-tomatoes-and-mushrooms-73ac0d6b448683646f76a2689875d900/chicken+tomatoes+mushrooms",
+  "yield" : 4.0,
+  "dietLabels" : [ "High-Protein", "Low-Carb" ],
+  "healthLabels" : [ "Paleo", "Dairy-Free", "Gluten-Free", "Egg-Free", "Peanut-Free", "Tree-Nut-Free", "Soy-Free", "Fish-Free", "Shellfish-Free" ],
+  "cautions" : [ ],
+  "ingredientLines" : [ "4 boneless, skinless chicken breast halves, about 1 1/2 pounds", "Coarse salt and ground pepper", "1 tablespoon olive oil", "1 pound mushrooms, trimmed and quartered", "2 garlic cloves, minced", "1 can (14.5 ounces) stewed tomatoes", "1/4 teaspoon dried oregano" ],
+  "ingredients" : [ {
+    "text" : "4 boneless, skinless chicken breast halves, about 1 1/2 pounds",
+    "quantity" : 1.5,
+    "measure" : "lb",
+    "food" : "boneless skinless chicken breast",
+    "weight" : 680.388
+  }, {
+    "text" : "Coarse salt and ground pepper",
+    "quantity" : 1.0,
+    "measure" : "pepper",
+    "food" : "ground pepper",
+    "weight" : 0.3
+  }, {
+    "text" : "1 tablespoon olive oil",
+    "quantity" : 1.0,
+    "measure" : "tbsp",
+    "food" : "olive oil",
+    "weight" : 13.5
+  }, {
+    "text" : "1 pound mushrooms, trimmed and quartered",
+    "quantity" : 1.0,
+    "measure" : "lb",
+    "food" : "mushrooms",
+    "weight" : 453.592
+  }, {
+    "text" : "2 garlic cloves, minced",
+    "quantity" : 2.0,
+    "measure" : "clove",
+    "food" : "garlic",
+    "weight" : 6.0
+  }, {
+    "text" : "1 can (14.5 ounces) stewed tomatoes",
+    "quantity" : 14.5,
+    "measure" : "oz",
+    "food" : "canned tomato",
+    "weight" : 411.075
+  }, {
+    "text" : "1/4 teaspoon dried oregano",
+    "quantity" : 0.25,
+    "measure" : "tsp",
+    "food" : "dried oregano",
+    "weight" : 0.45
+  } ],
+  "calories" : 1075.5408100000004,
+  "totalWeight" : 1565.305,
+  "totalNutrients" : {
+    "ENERC_KCAL" : {
+      "label" : "Energy",
+      "quantity" : 1075.5408100000004,
+      "unit" : "kcal"
+    },
+    "FAT" : {
+      "label" : "Fat",
+      "quantity" : 33.2576995,
+      "unit" : "g"
+    },
+    "FASAT" : {
+      "label" : "Saturated",
+      "quantity" : 5.957021300000001,
+      "unit" : "g"
+    },
+    "FATRN" : {
+      "label" : "Trans",
+      "quantity" : 0.06803880000000001,
+      "unit" : "g"
+    },
+    "FAMS" : {
+      "label" : "Monounsaturated",
+      "quantity" : 15.1087488,
+      "unit" : "g"
+    },
+    "FAPU" : {
+      "label" : "Polyunsaturated",
+      "quantity" : 5.028487900000001,
+      "unit" : "g"
+    },
+    "CHOCDF" : {
+      "label" : "Carbs",
+      "quantity" : 33.71568919999999,
+      "unit" : "g"
+    },
+    "FIBTG" : {
+      "label" : "Fiber",
+      "quantity" : 9.039819999999999,
+      "unit" : "g"
+    },
+    "SUGAR" : {
+      "label" : "Sugars",
+      "quantity" : 18.8450316,
+      "unit" : "g"
+    },
+    "PROCNT" : {
+      "label" : "Protein",
+      "quantity" : 162.1220202,
+      "unit" : "g"
+    },
+    "CHOLE" : {
+      "label" : "Cholesterol",
+      "quantity" : 435.44832,
+      "unit" : "mg"
+    },
+    "NA" : {
+      "label" : "Sodium",
+      "quantity" : 1401.2294299999999,
+      "unit" : "mg"
+    },
+    "CA" : {
+      "label" : "Calcium",
+      "quantity" : 194.57091,
+      "unit" : "mg"
+    },
+    "MG" : {
+      "label" : "Magnesium",
+      "quantity" : 266.17041,
+      "unit" : "mg"
+    },
+    "K" : {
+      "label" : "Potassium",
+      "quantity" : 4766.53116,
+      "unit" : "mg"
+    },
+    "FE" : {
+      "label" : "Iron",
+      "quantity" : 9.1451531,
+      "unit" : "mg"
+    },
+    "ZN" : {
+      "label" : "Zinc",
+      "quantity" : 6.9657088,
+      "unit" : "mg"
+    },
+    "P" : {
+      "label" : "Phosphorus",
+      "quantity" : 1907.32817,
+      "unit" : "mg"
+    },
+    "VITA_RAE" : {
+      "label" : "Vitamin A",
+      "quantity" : 86.36292,
+      "unit" : "µg_RAE"
+    },
+    "VITC" : {
+      "label" : "Vitamin C",
+      "quantity" : 57.802413,
+      "unit" : "mg"
+    },
+    "THIA" : {
+      "label" : "Thiamin (B1)",
+      "quantity" : 0.9486014,
+      "unit" : "mg"
+    },
+    "RIBF" : {
+      "label" : "Riboflavin (B2)",
+      "quantity" : 2.7097735000000003,
+      "unit" : "mg"
+    },
+    "NIA" : {
+      "label" : "Niacin (B3)",
+      "quantity" : 90.27871290000002,
+      "unit" : "mg"
+    },
+    "VITB6A" : {
+      "label" : "Vitamin B6",
+      "quantity" : 6.019995700000001,
+      "unit" : "mg"
+    },
+    "FOL" : {
+      "label" : "Folic Acid (B9)",
+      "quantity" : 138.50966,
+      "unit" : "µg"
+    },
+    "VITB12" : {
+      "label" : "Vitamin B12",
+      "quantity" : 1.5422128000000002,
+      "unit" : "µg"
+    },
+    "VITD" : {
+      "label" : "Vitamin D",
+      "quantity" : 1.5875720000000002,
+      "unit" : "µg"
+    },
+    "TOCPHA" : {
+      "label" : "Vitamin E",
+      "quantity" : 6.160746399999999,
+      "unit" : "mg"
+    },
+    "VITK1" : {
+      "label" : "Vitamin K",
+      "quantity" : 24.799701000000002,
+      "unit" : "µg"
+    }
+  },
+  "totalDaily" : {
+    "ENERC_KCAL" : {
+      "label" : "Energy",
+      "quantity" : 53.77704050000002,
+      "unit" : "%"
+    },
+    "FAT" : {
+      "label" : "Fat",
+      "quantity" : 51.16569153846154,
+      "unit" : "%"
+    },
+    "FASAT" : {
+      "label" : "Saturated",
+      "quantity" : 29.785106500000005,
+      "unit" : "%"
+    },
+    "CHOCDF" : {
+      "label" : "Carbs",
+      "quantity" : 11.238563066666664,
+      "unit" : "%"
+    },
+    "FIBTG" : {
+      "label" : "Fiber",
+      "quantity" : 36.159279999999995,
+      "unit" : "%"
+    },
+    "PROCNT" : {
+      "label" : "Protein",
+      "quantity" : 324.2440404,
+      "unit" : "%"
+    },
+    "CHOLE" : {
+      "label" : "Cholesterol",
+      "quantity" : 145.14944,
+      "unit" : "%"
+    },
+    "NA" : {
+      "label" : "Sodium",
+      "quantity" : 58.384559583333335,
+      "unit" : "%"
+    },
+    "CA" : {
+      "label" : "Calcium",
+      "quantity" : 19.457091000000002,
+      "unit" : "%"
+    },
+    "MG" : {
+      "label" : "Magnesium",
+      "quantity" : 66.5426025,
+      "unit" : "%"
+    },
+    "K" : {
+      "label" : "Potassium",
+      "quantity" : 136.18660457142857,
+      "unit" : "%"
+    },
+    "FE" : {
+      "label" : "Iron",
+      "quantity" : 50.80640611111111,
+      "unit" : "%"
+    },
+    "ZN" : {
+      "label" : "Zinc",
+      "quantity" : 46.43805866666666,
+      "unit" : "%"
+    },
+    "P" : {
+      "label" : "Phosphorus",
+      "quantity" : 272.4754528571429,
+      "unit" : "%"
+    },
+    "VITA_RAE" : {
+      "label" : "Vitamin A",
+      "quantity" : 9.59588,
+      "unit" : "%"
+    },
+    "VITC" : {
+      "label" : "Vitamin C",
+      "quantity" : 96.33735499999999,
+      "unit" : "%"
+    },
+    "THIA" : {
+      "label" : "Thiamin (B1)",
+      "quantity" : 63.240093333333334,
+      "unit" : "%"
+    },
+    "RIBF" : {
+      "label" : "Riboflavin (B2)",
+      "quantity" : 159.39844117647058,
+      "unit" : "%"
+    },
+    "NIA" : {
+      "label" : "Niacin (B3)",
+      "quantity" : 451.3935645,
+      "unit" : "%"
+    },
+    "VITB6A" : {
+      "label" : "Vitamin B6",
+      "quantity" : 300.99978500000003,
+      "unit" : "%"
+    },
+    "FOL" : {
+      "label" : "Folic Acid (B9)",
+      "quantity" : 34.627415,
+      "unit" : "%"
+    },
+    "VITB12" : {
+      "label" : "Vitamin B12",
+      "quantity" : 25.703546666666668,
+      "unit" : "%"
+    },
+    "VITD" : {
+      "label" : "Vitamin D",
+      "quantity" : 0.39689300000000005,
+      "unit" : "%"
+    },
+    "TOCPHA" : {
+      "label" : "Vitamin E",
+      "quantity" : 30.803731999999997,
+      "unit" : "%"
+    },
+    "VITK1" : {
+      "label" : "Vitamin K",
+      "quantity" : 30.999626250000006,
+      "unit" : "%"
+    }
+  },
+  "digest" : [ {
+    "label" : "Fat",
+    "tag" : "FAT",
+    "schemaOrgTag" : "fatContent",
+    "total" : 33.2576995,
+    "hasRDI" : true,
+    "daily" : 51.16569153846154,
+    "unit" : "g",
+    "sub" : [ {
+      "label" : "Saturated",
+      "tag" : "FASAT",
+      "schemaOrgTag" : "saturatedFatContent",
+      "total" : 5.957021300000001,
+      "hasRDI" : true,
+      "daily" : 29.785106500000005,
+      "unit" : "g"
+    }, {
+      "label" : "Trans",
+      "tag" : "FATRN",
+      "schemaOrgTag" : "transFatContent",
+      "total" : 0.06803880000000001,
+      "hasRDI" : false,
+      "daily" : 0.0,
+      "unit" : "g"
+    }, {
+      "label" : "Monounsaturated",
+      "tag" : "FAMS",
+      "schemaOrgTag" : null,
+      "total" : 15.1087488,
+      "hasRDI" : false,
+      "daily" : 0.0,
+      "unit" : "g"
+    }, {
+      "label" : "Polyunsaturated",
+      "tag" : "FAPU",
+      "schemaOrgTag" : null,
+      "total" : 5.028487900000001,
+      "hasRDI" : false,
+      "daily" : 0.0,
+      "unit" : "g"
+    } ]
+  }, {
+    "label" : "Carbs",
+    "tag" : "CHOCDF",
+    "schemaOrgTag" : "carbohydrateContent",
+    "total" : 33.71568919999999,
+    "hasRDI" : true,
+    "daily" : 11.238563066666664,
+    "unit" : "g",
+    "sub" : [ {
+      "label" : "Carbs (net)",
+      "tag" : "CHOCDF.net",
+      "schemaOrgTag" : null,
+      "total" : 24.675869199999994,
+      "hasRDI" : false,
+      "daily" : 0.0,
+      "unit" : "g"
+    }, {
+      "label" : "Fiber",
+      "tag" : "FIBTG",
+      "schemaOrgTag" : "fiberContent",
+      "total" : 9.039819999999999,
+      "hasRDI" : true,
+      "daily" : 36.159279999999995,
+      "unit" : "g"
+    }, {
+      "label" : "Sugars",
+      "tag" : "SUGAR",
+      "schemaOrgTag" : "sugarContent",
+      "total" : 18.8450316,
+      "hasRDI" : false,
+      "daily" : 0.0,
+      "unit" : "g"
+    } ]
+  }, {
+    "label" : "Protein",
+    "tag" : "PROCNT",
+    "schemaOrgTag" : "proteinContent",
+    "total" : 162.1220202,
+    "hasRDI" : true,
+    "daily" : 324.2440404,
+    "unit" : "g"
+  }, {
+    "label" : "Cholesterol",
+    "tag" : "CHOLE",
+    "schemaOrgTag" : "cholesterolContent",
+    "total" : 435.44832,
+    "hasRDI" : true,
+    "daily" : 145.14944,
+    "unit" : "mg"
+  }, {
+    "label" : "Sodium",
+    "tag" : "NA",
+    "schemaOrgTag" : "sodiumContent",
+    "total" : 1401.2294299999999,
+    "hasRDI" : true,
+    "daily" : 58.384559583333335,
+    "unit" : "mg"
+  }, {
+    "label" : "Calcium",
+    "tag" : "CA",
+    "schemaOrgTag" : null,
+    "total" : 194.57091,
+    "hasRDI" : true,
+    "daily" : 19.457091000000002,
+    "unit" : "mg"
+  }, {
+    "label" : "Magnesium",
+    "tag" : "MG",
+    "schemaOrgTag" : null,
+    "total" : 266.17041,
+    "hasRDI" : true,
+    "daily" : 66.5426025,
+    "unit" : "mg"
+  }, {
+    "label" : "Potassium",
+    "tag" : "K",
+    "schemaOrgTag" : null,
+    "total" : 4766.53116,
+    "hasRDI" : true,
+    "daily" : 136.18660457142857,
+    "unit" : "mg"
+  }, {
+    "label" : "Iron",
+    "tag" : "FE",
+    "schemaOrgTag" : null,
+    "total" : 9.1451531,
+    "hasRDI" : true,
+    "daily" : 50.80640611111111,
+    "unit" : "mg"
+  }, {
+    "label" : "Zinc",
+    "tag" : "ZN",
+    "schemaOrgTag" : null,
+    "total" : 6.9657088,
+    "hasRDI" : true,
+    "daily" : 46.43805866666666,
+    "unit" : "mg"
+  }, {
+    "label" : "Phosphorus",
+    "tag" : "P",
+    "schemaOrgTag" : null,
+    "total" : 1907.32817,
+    "hasRDI" : true,
+    "daily" : 272.4754528571429,
+    "unit" : "mg"
+  }, {
+    "label" : "Vitamin A",
+    "tag" : "VITA_RAE",
+    "schemaOrgTag" : null,
+    "total" : 86.36292,
+    "hasRDI" : true,
+    "daily" : 9.59588,
+    "unit" : "µg"
+  }, {
+    "label" : "Vitamin C",
+    "tag" : "VITC",
+    "schemaOrgTag" : null,
+    "total" : 57.802413,
+    "hasRDI" : true,
+    "daily" : 96.33735499999999,
+    "unit" : "mg"
+  }, {
+    "label" : "Thiamin (B1)",
+    "tag" : "THIA",
+    "schemaOrgTag" : null,
+    "total" : 0.9486014,
+    "hasRDI" : true,
+    "daily" : 63.240093333333334,
+    "unit" : "mg"
+  }, {
+    "label" : "Riboflavin (B2)",
+    "tag" : "RIBF",
+    "schemaOrgTag" : null,
+    "total" : 2.7097735000000003,
+    "hasRDI" : true,
+    "daily" : 159.39844117647058,
+    "unit" : "mg"
+  }, {
+    "label" : "Niacin (B3)",
+    "tag" : "NIA",
+    "schemaOrgTag" : null,
+    "total" : 90.27871290000002,
+    "hasRDI" : true,
+    "daily" : 451.3935645,
+    "unit" : "mg"
+  }, {
+    "label" : "Vitamin B6",
+    "tag" : "VITB6A",
+    "schemaOrgTag" : null,
+    "total" : 6.019995700000001,
+    "hasRDI" : true,
+    "daily" : 300.99978500000003,
+    "unit" : "mg"
+  }, {
+    "label" : "Folic Acid (B9)",
+    "tag" : "FOL",
+    "schemaOrgTag" : null,
+    "total" : 138.50966,
+    "hasRDI" : true,
+    "daily" : 34.627415,
+    "unit" : "µg"
+  }, {
+    "label" : "Vitamin B12",
+    "tag" : "VITB12",
+    "schemaOrgTag" : null,
+    "total" : 1.5422128000000002,
+    "hasRDI" : true,
+    "daily" : 25.703546666666668,
+    "unit" : "µg"
+  }, {
+    "label" : "Vitamin D",
+    "tag" : "VITD",
+    "schemaOrgTag" : null,
+    "total" : 1.5875720000000002,
+    "hasRDI" : true,
+    "daily" : 0.39689300000000005,
+    "unit" : "µg"
+  }, {
+    "label" : "Vitamin E",
+    "tag" : "TOCPHA",
+    "schemaOrgTag" : null,
+    "total" : 6.160746399999999,
+    "hasRDI" : true,
+    "daily" : 30.803731999999997,
+    "unit" : "mg"
+  }, {
+    "label" : "Vitamin K",
+    "tag" : "VITK1",
+    "schemaOrgTag" : null,
+    "total" : 24.799701000000002,
+    "hasRDI" : true,
+    "daily" : 30.999626250000006,
+    "unit" : "µg"
+  } ]
+}
