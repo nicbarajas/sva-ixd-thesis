@@ -1,5 +1,6 @@
 ---
 title: The Future of 1967
+date: 2017-01-03 17:29:37.561000000 Z
 summary: What the past can teach us about designing for the present and beyond.
 ---
 

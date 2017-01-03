@@ -1,6 +1,8 @@
 ---
-title: "Meltdown"
-summary: "After completing a basic proof of concept, thesis felt like it was beginning to come apart. I try to discuss the reasons and what led me through."
+title: Meltdown
+date: 2016-03-27 00:00:00 Z
+summary: After completing a basic proof of concept, thesis felt like it was beginning
+  to come apart. I try to discuss the reasons and what led me through.
 ---
 
 A week after coming back from a tropical vacation in Guadeloupe, I had a moment where I lost my resolve. The contents of my apartment were being packaged up, fit into a box truck and shipped across town—a new apartment, a new neighborhood, and an extra bit of complication to an already stress-filled time of year.

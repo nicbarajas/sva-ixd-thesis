@@ -1,6 +1,7 @@
 ---
 title: Thesis, So Far
-summary: "At week two, trying to figure out where I am with my thesis ideas."
+date: 2015-09-19 00:00:00 Z
+summary: At week two, trying to figure out where I am with my thesis ideas.
 ---
 
 I have been pretty lax on my progress for thesis. It’s been from a few things—[XOXO][] was one of them, but also a slow adjustment to the rapid pace of school and work.

@@ -1,6 +1,8 @@
 ---
-title: "Procrastination, Through Any Means Necessary"
-summary: "Unsurprisingly, I found a way to piss away a weekend. It wasn’t all in vain, though."
+title: Procrastination, Through Any Means Necessary
+date: 2016-02-01 00:00:00 Z
+summary: Unsurprisingly, I found a way to piss away a weekend. It wasn’t all in vain,
+  though.
 ---
 
 Though I’m somewhat embarrassed about the lack of meaningful progress I’ve made this weekend—or even in the past week—on thesis, it’s actually been a hugely productive one for me. The biggest, and most hopeful, improvement is the fact that I now have an adviser! It’s a great step in having a good advocate an prod for my future work, and with [Stefani Bardin][sb] as that colleague, I believe it’ll make a meaningful improvement on my ability to focus and deliver on thesis.

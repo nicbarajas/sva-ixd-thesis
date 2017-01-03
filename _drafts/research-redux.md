@@ -1,3 +1,8 @@
+---
+title: Research Redux
+date: 2017-01-03 17:29:37.619000000 Z
+---
+
 Historical Inquiry: Recipes
 http://www.slate.com/articles/double_x/doublex/2011/12/recipe_cards_a_brief_history.html
 http://www.foodtimeline.org

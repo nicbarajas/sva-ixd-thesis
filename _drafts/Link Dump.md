@@ -1,3 +1,8 @@
+---
+title: Link dump
+date: 2017-01-03 17:29:37.500000000 Z
+---
+
 2016-01-18-link-dump
 
 “A Huge Mess of Links” is going to be my attempt to clear out a boatload of tabs that are sitting on my various devices. I think this is going to be particularly interesting, and I might make it a series of posts instead of one huge dump.

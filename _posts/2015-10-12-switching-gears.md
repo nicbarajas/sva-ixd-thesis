@@ -1,6 +1,8 @@
 ---
 title: Shifting Gears and Progress
-summary: "This nearly lost update describes my shift to focus on a food concept, edited later for clarity."
+date: 2015-10-12 00:00:00 Z
+summary: This nearly lost update describes my shift to focus on a food concept, edited
+  later for clarity.
 ---
 
 *This post was originally written to be posted October 12, but was edited later to clarify the raw thoughts.*

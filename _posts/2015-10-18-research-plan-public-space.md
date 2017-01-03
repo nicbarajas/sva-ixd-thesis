@@ -1,5 +1,6 @@
 ---
-title: "Research: Community Food Space"
+title: 'Research: Community Food Space'
+date: 2015-10-18 00:00:00 Z
 summary: Coming up with ideas for an experimental community place.
 ---
 

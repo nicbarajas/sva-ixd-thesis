@@ -1,6 +1,8 @@
 ---
-title: "Research Plan: Beerio"
-summary: "An unhelpful and unexecuted plan whose original summary read: “You want a research plan? I’ll give you a research plan.”"
+title: 'Research Plan: Beerio'
+date: 2015-09-28 00:00:00 Z
+summary: 'An unhelpful and unexecuted plan whose original summary read: “You want
+  a research plan? I’ll give you a research plan.”'
 ---
 
 *Postscipt: This is a pretty embarrassing post—but one borne out of frustration. Rather than working on my own terms, I felt like I had to take a prescriptive path through thesis. This post reflects that feeling, and I haven’t yet returned to Beerio as a subject.*

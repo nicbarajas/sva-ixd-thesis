@@ -1,6 +1,8 @@
 ---
-title: "Crunch Time"
-summary: "Spring semester is about getting back to work, so it’s time to focus on the what, why, and how of thesis. Time to start making decisions."
+title: Crunch Time
+date: 2016-02-08 00:00:00 Z
+summary: Spring semester is about getting back to work, so it’s time to focus on the
+  what, why, and how of thesis. Time to start making decisions.
 ---
 
 With my advisor on board and a couple of meetings already stowed away, it’s time to really focus on what I can do to better understand my chosen space and where I can make improvements. My previous [concept statement][], which did an okay job of describing high-level values, is far too vauge for me to actually use to come up with my next steps.

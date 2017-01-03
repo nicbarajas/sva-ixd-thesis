@@ -1,6 +1,8 @@
 ---
-title: "What I Learned From My First Prototype"
-summary: "Some good, some bad, but generally, it’s worth doing your homework and taking recruiting seriously"
+title: What I Learned From My First Prototype
+date: 2015-11-15 00:00:00 Z
+summary: Some good, some bad, but generally, it’s worth doing your homework and taking
+  recruiting seriously
 ---
 
 Despite my [sudden trouble][stolen], the show must go on, and so I did and used what I could to re-establish a path forward.

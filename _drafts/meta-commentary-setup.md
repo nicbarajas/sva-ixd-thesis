@@ -1,6 +1,7 @@
 ---
-title: "More Meta Commentary"
-summary: "My setup, revisited"
+title: More Meta Commentary
+date: 2017-01-03 17:29:37.590000000 Z
+summary: My setup, revisited
 ---
 
 Some of these were things I learned as part of the process of [losing my shit][], some in the process of [getting distracted][] when I began my second semester.

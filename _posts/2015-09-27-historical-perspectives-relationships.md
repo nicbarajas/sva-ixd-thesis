@@ -1,6 +1,8 @@
 ---
 title: Tracing Relationships Back in Time
-summary: "Trying to trace a history of how humans interact, and trying not to mansplain it all."
+date: 2015-09-27 00:00:00 Z
+summary: Trying to trace a history of how humans interact, and trying not to mansplain
+  it all.
 ---
 
 As part of my continued exploration of [thesis][thesis-1], one of our assignments is to look at a thesis idea from a historical perspective—go to back earlier than products, all the way back to the original social constructs that deal with your idea.

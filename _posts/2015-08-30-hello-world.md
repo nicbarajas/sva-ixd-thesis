@@ -1,5 +1,6 @@
 ---
 title: Hello, World
+date: 2015-08-30 00:00:00 Z
 summary: You always need to start somewhere.
 ---
 

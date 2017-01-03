@@ -1,6 +1,8 @@
 ---
-title: "Creating a Tiny Kitchen"
-summary: "Delivered as the final of the fall semester, it was ultimately not very successful at drawing in new people, but I made a great meal with it."
+title: Creating a Tiny Kitchen
+date: 2015-12-18 00:00:00 Z
+summary: Delivered as the final of the fall semester, it was ultimately not very successful
+  at drawing in new people, but I made a great meal with it.
 ---
 
 A twisted road followed my [first prototype][prototype-one], as I tried to reflect on what worked about the experience and put it through more refinement and pick a better sense of scope.

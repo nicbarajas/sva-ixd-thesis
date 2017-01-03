@@ -1,6 +1,8 @@
 ---
-title: "Moving to the Technical Side"
-summary: "My design is still in flux, but understanding the technical ability for this to work might be more rewarding."
+title: Moving to the Technical Side
+date: 2017-01-03 17:29:37.648000000 Z
+summary: My design is still in flux, but understanding the technical ability for this
+  to work might be more rewarding.
 ---
 
 In addition to my advisor Stefani, I now have access to a technical advisor, which will help make some of the algorithm aspects of the project make more sense to me, I hope. Ted Case-Hayes is the man.

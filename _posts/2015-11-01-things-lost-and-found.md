@@ -1,6 +1,8 @@
 ---
-title: "…And That’s When I Realized My Bag Was Gone" 
-summary: "A sad but ultimately positive story about how I had a bunch of shit stolen from me."
+title: "…And That’s When I Realized My Bag Was Gone"
+date: 2015-11-01 00:00:00 Z
+summary: A sad but ultimately positive story about how I had a bunch of shit stolen
+  from me.
 ---
 
 In late October, I was the victim of a theft—specifically, my bag and its contents. Besides work materials from my day job, I lost a bunch of written notes from the semester, most of which were thankfully digitally stored; a couple of pieces of electronics, mainly my personal iPad and a camera that I treasured; and of course a bag of oatmeal raisin cookies. (I had recently returned something from Mikey’s Hook-Up, which has a *very particular* return policy.)

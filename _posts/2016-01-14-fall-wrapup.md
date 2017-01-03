@@ -1,5 +1,6 @@
 ---
 title: Fall Wrap-Up
+date: 2016-01-14 00:00:00 Z
 summary: As I look ahead to the spring semester, an executive summary of my fall.
 ---
 

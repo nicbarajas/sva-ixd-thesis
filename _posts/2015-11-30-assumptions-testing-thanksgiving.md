@@ -1,6 +1,8 @@
 ---
-title: "Assumptions, Feedback and Thanksgiving"
-summary: "An assignment from class involved us thinking about all the assumptions of our topic area; meanwhile, I also did some in-situ testing over Thanksgiving break."
+title: Assumptions, Feedback and Thanksgiving
+date: 2015-11-30 00:00:00 Z
+summary: An assignment from class involved us thinking about all the assumptions of
+  our topic area; meanwhile, I also did some in-situ testing over Thanksgiving break.
 ---
 
 As the fall winds towards our final prototype of the semester, it’s worth looking back at a few ideas that have been locked up in my notes. A little ways back, we developed an assumption map—essentially, laying out the groundwork for our problem space so we can tackle it effectively. In the meantime, I also wanted to remind myself of some activities I’d performed personally that gave me more insight into potential user needs.
